@@ -21,4 +21,4 @@ A simple clone of Quora built using **RESTful APIs**, **Express.js**, **EJS**, a
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Quora-Clone.git
+git clone https://github.com/Siddhesh1732/Quora-Clone.git
